@@ -1,6 +1,6 @@
 # ⚛️ Microreactor Siting for the Philippines
 
-
+![Graphic Abstract](graphic_abstract.jpg)
 
 **A hazard-aware geospatial ML pipeline that turns 15+ national data layers into a ranked shortlist of viable microreactor sites — and explains *why* each one scores the way it does.**
 
